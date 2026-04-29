@@ -13,7 +13,7 @@ This project aims to design and implement a modern, scalable web application to 
 * **Language:** Python 3.12+
 * **Framework:** FastAPI (High performance, asynchronous support)
 * **Data Validation:** Pydantic V2
-* **Database:** Microsoft SQL Server
+* **Database:** PostgreSQL
 * **ORM:** SQLAlchemy
 * **Authentication:** OAuth2 with JWT (Planned)
 
